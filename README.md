@@ -21,3 +21,12 @@ RAG/
 ├── .env.example            # Environment variable template
 ├── .gitignore              # Git ignore rules
 └── README.md               # Project documentation
+
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+faiss-cpu
+pypdf
+python-dotenv
